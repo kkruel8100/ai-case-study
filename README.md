@@ -76,7 +76,7 @@ Wealthfront uses developed software with advanced algorithms to determine optima
 
 Financial robo-advisory services
 
-#### Robo Advisor:
+#### Robo-Advisor:
 
 From [Investopedia](https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp), Jake Frankenfield defines a robo-advisor as 
 
@@ -92,11 +92,11 @@ Per [Wealthfront](https://research.wealthfront.com/whitepapers/tax-loss-harvesti
 
 #### Major Trends:
 
-There is some dispute on the origins of robo advisory services. [Vanguard](https://institutional.vanguard.com/content/dam/inst/iig-transformation/insights/pdf/Robo-Advisor_Landscape_2023-Vanguard.pdf) credits Financial Engines as the first robo-advisor which was founded in 1996 and utilized computer based asset management. [Researchgate](https://www.researchgate.net/publication/364823852_Robo-Advising_Past_Present_and_Future_US_Trends) credits Betterment as the first market advisor in 2010. The key distinction between the two being that Financial Engines was used for clients whereas Betterment was a provider for the masses. 
+There is some dispute on the origins of robo-advisory services. [Vanguard](https://institutional.vanguard.com/content/dam/inst/iig-transformation/insights/pdf/Robo-Advisor_Landscape_2023-Vanguard.pdf) credits Financial Engines as the first robo-advisor which was founded in 1996 and utilized computer based asset management. [Researchgate](https://www.researchgate.net/publication/364823852_Robo-Advising_Past_Present_and_Future_US_Trends) credits Betterment as the first market advisor in 2010. The key distinction between the two being that Financial Engines was used for clients whereas Betterment was a provider for the masses. 
 
-Using Betterment as the origin for robo advisory services, the last 10 years has shown advances in algorithms and product offerings. Services now include more investment options, more account options, tax loss harvesting, and hybrid models.   
+Using Betterment as the origin for robo-advisory services, the last 10 years has shown advances in algorithms and product offerings. Services now include more investment options, more account options, tax loss harvesting, and hybrid models.   
 
-Future trends in the robo-advisory field include hybrid advisors, advanced features, new players, and consolidation of competitors. Hybrid advisors would utilize the combination of financial advisors and AI tools and allow a more customized and personalized experience. Advanced features would look at adding more investment options and complex tax and retirement planning. Features may also expand to include social and ethical investing and local and regional influence. New players are emerging in the field as more market share is shifting to robo advisors, so it's likely that banks will become more active in this market. Finally, it's also predicted that many robo advisory services will merge and consolidate and this may be facilitated with the new players seeking entry by acquiring existing companies rather than by development of new software.
+Future trends in the robo-advisory field include hybrid advisors, advanced features, new players, and consolidation of competitors. Hybrid advisors would utilize the combination of financial advisors and AI tools and allow a more customized and personalized experience. Advanced features would look at adding more investment options and complex tax and retirement planning. Features may also expand to include social and ethical investing and local and regional influence. New players are emerging in the field as more market share is shifting to robo-advisors, so it's likely that banks will become more active in this market. Finally, it's also predicted that many robo-advisory services will merge and consolidate and this may be facilitated with the new players seeking entry by acquiring existing companies rather than by development of new software.
 
 #### Competitors:
 [Betterment](https://www.betterment.com/), [Vanguard](https://investor.vanguard.com/advice/robo-advisor), and [Schwab](https://www.schwab.com/learn/intelligent-portfolios-insights)
@@ -105,7 +105,7 @@ Future trends in the robo-advisory field include hybrid advisors, advanced featu
 
 #### Business Impact:
 
-Wealthfront is considered one of the leaders in robo advisory services. It has continued to expand the product offering and has been able to provide an annual percentage yield of 5%. 
+Wealthfront is considered one of the leaders in robo-advisory services. It has continued to expand the product offering and has been able to provide an annual percentage yield of 5%. 
 
 #### Core Metrics:
 
@@ -137,13 +137,15 @@ Wealthfront is considered a top competitor in the field and is comparable to Bet
 
 #### Advice
 
-One key advantage of Betterment over Wealthfront is customer service. To be more competitive, Wealthfront should create a online chatbot to service clients, as well as expanding access to live advisors.
+[Investopedia](https://www.investopedia.com/wealthfront-vs-betterment-4587963) compares Betterment versus Wealthfront. While Wealthfront does receive the overall winning endorsement, the comparisons are very close, and in certain cases, Betterment is recommended over Wealthfront. One key advantage of Betterment over Wealthfront is customer service. To be more competitive, Wealthfront should create a online chatbot to service clients, as well as expanding access to live advisors.
 
-Custodial accounts and mutual funds are services missing from the robo advisory companies. Adding these types of accounts would give a competitive advantage.
+Investopedia identified custodial accounts and mutual funds as services missing from the robo-advisory companies. Adding these types of accounts would give a competitive advantage.
 
 #### Benefits
 
 Ultimately acquiring and maintaining customers revolves around the customer experience. Individuals have come to expect certain features, such as chatbots to solve questions. When the emphasis is on a digital experience and low to no human supervision, it is important to maximize a customer's access to tools and information that will help faciliate decision making as well as improve customer's confidence in their investment advisor of choice.  
+
+By combining an online chatbox and access to additional investment options, Wealthfront has the potential to become the clear leader in the robo-advisory field and gain a leading competitive advantage.
 
 #### Possible Technlogies:
 
