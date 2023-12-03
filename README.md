@@ -34,7 +34,7 @@ The company is providing high end investment and advisory services to all indivi
 
 The company's intended customer is literally anyone and everyone. More specifically, Wealthfront is geared to individuals wanting to invest but lack the financial net worth to have access to traditional investment services with a higher entry point and services that are tailored to the top percentile client base.
 
-Per PRNewswire, Wealthfront has over 700,000 clients with more than $50 billion in assets. Their primary client base is young professionals. 
+Per [PRNewswire](https://www.prnewswire.com/news-releases/wealthfront-now-oversees-more-than-50-billion-in-client-assets-and-is-on-track-to-grow-revenue-by-over-140-in-2023-301990087.html), Wealthfront has over 700,000 clients with more than $50 billion in assets. Their primary client base is young professionals. 
 
 #### Advantage of Wealthfront over Competitors:
 
@@ -42,14 +42,14 @@ They offer low cost advisory services to individuals, and they are able to offer
 
 #### Technologies:
 
-zoominfo reports Wealthfront technologies as the following:
+[ZoomInfo](https://www.zoominfo.com/c/wealthfront-corp/345857543) reports Wealthfront technologies as the following:
 
 * Rapid 7
 * Beeswax
 * Git
 * Ansible
 
-Stackshare reports Wealthfront technologies as the following:
+[StackShare](https://stackshare.io/wealthfront/wealthfront) reports Wealthfront technologies as the following:
 
 * JavaScript
 * React
@@ -78,7 +78,7 @@ Financial robo-advisory services
 
 #### Robo Advisor:
 
-From Investopedia, Jake Frankenfield defines a robo-advisor as 
+From [Investopedia](https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp), Jake Frankenfield defines a robo-advisor as 
 
 > a digital platform that provides automated, algorithm-driven financial planning and investment services with little to no human supervision.
 
@@ -86,13 +86,13 @@ From Investopedia, Jake Frankenfield defines a robo-advisor as
 
 Wealthfront utilizes AI algoritms to understand clients' risk tolerance and financial goals to determine an optimal diversified portfolio selection that would best balance risk with goal fulfillment. In addition, Wealthfront distinguishes itself from competitors by emphasizing the after-tax returns on investments and applies Tax-Loss Strategy to taxable accounts. Using Weatlhfront software, Tax-Loss Strategy utilizes tax losses to offset taxes and fees while maintaining similar levels of risk and achieve better overall returns compared.
 
-Per Wealthfront, 
+Per [Wealthfront](https://research.wealthfront.com/whitepapers/tax-loss-harvesting/), 
 
 > We find that the median ratio of tax benefit to fee is 4.6x, meaning that for a typical client, our Tax-Loss Harvesting service is paying for itself more than four times over and more than 95% of clients who used Tax-Loss Harvesting received more in tax benefit than they paid in fees.
 
 #### Major Trends:
 
-There is some dispute on the origins of robo advisory services. Vanguard credits Financial Engines as the first robo-advisor which was founded in 1996 and utilized computer based asset management. Researchgate credits Betterment as the first market advisor in 2010. The key distinction between the two being that Financial Engines was used for clients whereas Betterment was a provider for the masses. 
+There is some dispute on the origins of robo advisory services. [Vanguard](https://institutional.vanguard.com/content/dam/inst/iig-transformation/insights/pdf/Robo-Advisor_Landscape_2023-Vanguard.pdf) credits Financial Engines as the first robo-advisor which was founded in 1996 and utilized computer based asset management. [Researchgate](https://www.researchgate.net/publication/364823852_Robo-Advising_Past_Present_and_Future_US_Trends) credits Betterment as the first market advisor in 2010. The key distinction between the two being that Financial Engines was used for clients whereas Betterment was a provider for the masses. 
 
 Using Betterment as the origin for robo advisory services, the last 10 years has shown advances in algorithms and product offerings. Services now include more investment options, more account options, tax loss harvesting, and hybrid models.   
 
@@ -109,9 +109,9 @@ Wealthfront is considered one of the leaders in robo advisory services. It has c
 
 #### Core Metrics:
 
-Per Wealthfront,
+Per [Wealthfront](https://www.wealthfront.com/historical-performance),
 
-**Average rate of return pre-tax:** 7.61%
+**Average rate of return pre-tax:** 7.61% *with a risk score of 9 and $10K investment*
 
 **Assets managed:** $50B +
 
@@ -119,9 +119,9 @@ Per Wealthfront,
 
 **Fees:** .25% annual fee
 
-Compared to Betterment,
+Compared to [Betterment](https://www.betterment.com/performance),
 
-**Average rate of return pre-tax:** only reported on portfolio level
+**Average rate of return pre-tax:** 7.9% *with 90-10 risk level and $5K investment*
 
 **Assets managed:** $40B +
 
@@ -143,7 +143,7 @@ Custodial accounts and mutual funds are services missing from the robo advisory 
 
 #### Benefits
 
-Ultimately acquiring and maintaining customers revolves around the customer experience. Individuals have come to expect certain features, such as chatbots to solve questions. Plus, when a company is trying to be the financial advisor, customers gain a comfort level with their money when they have access to real live individuals.  
+Ultimately acquiring and maintaining customers revolves around the customer experience. Individuals have come to expect certain features, such as chatbots to solve questions. When the emphasis is on a digital experience and low to no human supervision, it is important to maximize a customer's access to tools and information that will help faciliate decision making as well as improve customer's confidence in their investment advisor of choice.  
 
 #### Possible Technlogies:
 
