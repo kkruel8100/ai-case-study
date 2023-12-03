@@ -4,7 +4,7 @@
 
 ### Company Name: 
 
-Wealthfront
+[Wealthfront](https://www.wealthfront.com/)
 
 #### Founded:  
 
@@ -22,7 +22,7 @@ In 2008, Dan's parents were negatively impacted by the financial crisis. Because
 
 Eventually, their shared visions brought them together and Wealthfront was founded 'to help democratize access to sophisticated financial advice.'
 
-* Per Crunchbase, Wealthfront has raised $274.2 million over 7 rounds of funding with a total of 39 investors.
+> Per [Crunchbase](https://www.crunchbase.com/organization/wealthfront/company_financials), Wealthfront has raised $274.2 million over 7 rounds of funding with a total of 39 investors.
 
 ## Business Activities
 
@@ -72,6 +72,20 @@ Stackshare reports Wealthfront technologies as the following:
 
 Financial robo-advisory services
 
+#### Robo Advisor:
+
+From Investopedia, Jake Frankenfield defines a robo-advisor as 
+
+> a digital platform that provides automated, algorithm-driven financial planning and investment services with little to no human supervision.
+
+#### Wealthfront Experience:
+
+Wealthfront utilizes AI algoritms to understand clients' risk tolerance and financial goals to determine an optimal diversified portfolio selection that would best balance risk with goal fulfillment. In addition, Wealthfront distinguishes itself from competitors by emphasizing the after-tax returns on investments and applies Tax-Loss Strategy to taxable accounts. Using Weatlhfront software, Tax-Loss Strategy utilizes tax losses to offset taxes and fees while maintaining similar levels of risk and achieve better overall returns compared.
+
+Per Wealthfront, 
+
+> We find that the median ratio of tax benefit to fee is 4.6x, meaning that for a typical client, our Tax-Loss Harvesting service is paying for itself more than four times over and more than 95% of clients who used Tax-Loss Harvesting received more in tax benefit than they paid in fees.
+
 #### Major Trends:
 
 There is some dispute on the origins of robo advisory services. Vanguard credits Financial Engines as the first robo-advisor which was founded in 1996 and utilized computer based asset management. Researchgate credits Betterment as the first market advisor in 2010. The key distinction between the two being that Financial Engines was used for clients whereas Betterment was a provider for the masses. 
@@ -81,7 +95,7 @@ Using Betterment as the origin for robo advisory services, the last 10 years has
 Future trends in the robo-advisory field include hybrid advisors, advanced features, new players, and consolidation of competitors. Hybrid advisors would utilize the combination of financial advisors and AI tools and allow a more customized and personalized experience. Advanced features would look at adding more investment options and complex tax and retirement planning. Features may also expand to include social and ethical investing and local and regional influence. New players are emerging in the field as more market share is shifting to robo advisors, so it's likely that banks will become more active in this market. Finally, it's also predicted that many robo advisory services will merge and consolidate and this may be facilitated with the new players seeking entry by acquiring existing companies rather than by development of new software.
 
 #### Competitors:
-Betterment, Vanguard, and Schwab
+[Betterment](https://www.betterment.com/), [Vanguard](https://investor.vanguard.com/advice/robo-advisor), and [Schwab](https://www.schwab.com/learn/intelligent-portfolios-insights)
 
 ## Results
 
@@ -95,17 +109,23 @@ What are some of the core metrics that companies in this field use to measure su
 
 Per Wealthfront,
 
-Average rate of return pre-tax: 7.61%
-Assets managed: $50B +
-Clients: 700K +
-Fees: .25% annual fee
+**Average rate of return pre-tax:** 7.61%
+
+**Assets managed:** $50B +
+
+**Clients:** 700K +
+
+**Fees:** .25% annual fee
 
 Compared to Betterment,
 
-Average rate of return: only reported on portfolio level
-Assets managed: $40B +
-Clients: 800K +
-Fees: .25% annual fee
+**Average rate of return pre-tax:** only reported on portfolio level
+
+**Assets managed:** $40B +
+
+**Clients:** 800K +
+
+**Fees:** .25% annual fee
 
 #### Comparison:
 
@@ -127,7 +147,7 @@ Ultimately acquiring and maintaining customers revolves around the customer expe
 
 Python
 
-Per g2, chatbot platforms to build a bot include:
+[Per g2](https://www.g2.com/articles/how-to-build-a-chatbot), chatbot platforms to build a bot include:
 
 * IBM Watson Assistant
 * TARS
@@ -160,3 +180,7 @@ Those technologies are for chatbots. In addition, codecademy lists python as the
 * https://www.zoominfo.com/c/wealthfront-corp/345857543
 * https://www.g2.com/articles/how-to-build-a-chatbot
 * https://www.codecademy.com/resources/blog/top-6-programming-languages-for-chatbot-development/
+* https://www.schwab.com/learn/intelligent-portfolios-insights
+* https://investor.vanguard.com/advice/robo-advisor
+* https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp
+* https://research.wealthfront.com/whitepapers/tax-loss-harvesting/
