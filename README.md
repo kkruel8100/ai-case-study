@@ -28,17 +28,17 @@ Eventually, their shared visions brought them together and Wealthfront was found
 
 #### Solutions:
  
-The company is providing high end investment and advisory services to all individuals with no minimum fund balances.
+The company is providing high end investment and advisory services to all individuals. Depending on type of account, accounts can be opened with as little as $1 or $500.
 
 #### Target Customers:
 
-The company's intended customer is literally anyone and everyone, but more specifically those individuals that lack the financial resources and don't have access to the same information and advice as wealthy individuals.
+The company's intended customer is literally anyone and everyone. More specifically, Wealthfront is geared to individuals wanting to invest but lack the financial net worth to have access to traditional investment services with a higher entry point and services that are tailored to the top percentile client base.
 
 Per PRNewswire, Wealthfront has over 700,000 clients with more than $50 billion in assets. Their primary client base is young professionals. 
 
 #### Advantage of Wealthfront over Competitors:
 
-They offer low cost advisory services to individuals with $500 minimum balance, and they are able to offer services that allow customers to save money in fees and taxes while optimizing returns.
+They offer low cost advisory services to individuals, and they are able to offer services that allow customers to save money in fees and taxes while optimizing returns.
 
 #### Technologies:
 
@@ -65,6 +65,10 @@ Stackshare reports Wealthfront technologies as the following:
 * CMake
 * G Suite
 * Zendesk
+
+#### Software:
+
+Wealthfront uses developed software with advanced algorithms to determine optimal portfolios for each client to maximize after tax returns on investments.
 
 ## Landscape
 
@@ -104,8 +108,6 @@ Future trends in the robo-advisory field include hybrid advisors, advanced featu
 Wealthfront is considered one of the leaders in robo advisory services. It has continued to expand the product offering and has been able to provide an annual percentage yield of 5%. 
 
 #### Core Metrics:
-
-What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
 Per Wealthfront,
 
@@ -159,7 +161,7 @@ Python
 
 #### Technology Selection Criteria:
 
-Those technologies are for chatbots. In addition, codecademy lists python as the 'preferred language for data projects, machine learning projects, and chatbot projects.'
+Those technologies are for chatbots. In addition, [codecademy](https://www.codecademy.com/resources/blog/top-6-programming-languages-for-chatbot-development/) lists python as the 'preferred language for data projects, machine learning projects, and chatbot projects.'
 
 ## ADDENDUM
 
