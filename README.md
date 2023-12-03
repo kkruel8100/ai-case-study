@@ -16,6 +16,8 @@ Andy Rachleff and Dan Carroll
 
 #### Backstory:
 
+In Wealthfront's [origin](https://www.wealthfront.com/origin), the backstory of Andy and Dan the co-founders are shared.
+
 After a successful career as co-founder of Benchmark Capital, Andy retired. In retirement, he was continually approached for investing advice. He was unable to share his approach to investing because the entry point for services he used was inaccessible to the average individual. He saw a need for services that could be used by everyone.
 
 In 2008, Dan's parents were negatively impacted by the financial crisis. Because of their financial resources, they didn't have access to the same level of advisory and investment services that high-end investors were able to utilize. He built a prototype that could be used by anyone and receive the same information.
